@@ -1,0 +1,1 @@
+# Filter-Pruning-Experimens-on-Generative-Models
